@@ -8,3 +8,9 @@ of the week the article was published, categories of news, polarities, number of
 negative words, etc. were taken into consideration while implementing various models for
 regression namely linear regression, Poisson regression, random forest, Artificial Neural
 Networks, and XGBoost.
+
+Dataset retrieved from https://archive.ics.uci.edu/dataset/332/online+news+popularity
+
+![image](https://github.com/Shridhar25/online-news-popularity/assets/89131795/2528d106-faab-4fd5-ae27-16d31aaecac8)
+
+Further details are provided in the project report.
